@@ -2,7 +2,8 @@
   "dockerfile_lines": [],
   "graphs": {
     "math_assistant": "./agent.py:graph",
-    "chatbot_with_summarization": "./chatbot_with_summarization.py:graph"
+    "chatbot_with_summarization": "./chatbot_with_summarization.py:graph",
+    "agent_with_human_in_loop": "./agent_with_human_in_loop.py:graph"
   },
   "env": "./.env",
   "python_version": "3.11",
