@@ -220,3 +220,5 @@ $RECYCLE.BIN/
 
 # ignore python venv
 v-environment/
+
+docker-compose.yml
