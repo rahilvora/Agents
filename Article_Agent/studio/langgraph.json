@@ -1,7 +1,7 @@
 {
   "dockerfile_lines": [],
   "graphs": {
-    "article_assistant": "./agent.py:graph"
+    "article_assistant": "./article_research_assistant.py:graph"
   },
   "env": "./.env",
   "python_version": "3.11",
